@@ -1,0 +1,32 @@
+Client Inquiry - Website Project
+
+From: John Smith
+Email: john.smith@example.com
+Date: January 7, 2026
+
+Message:
+Hi,
+
+I'm interested in getting a website developed for my small business. 
+We need:
+- Homepage
+- About Us page
+- Services page
+- Contact form
+- Mobile responsive design
+
+Budget: Around $3,000 - $5,000
+Timeline: Would like to launch in 4-6 weeks
+
+Please let me know if you're available and what the next steps would be.
+
+Thanks,
+John Smith
+ABC Consulting
+
+---
+Action Required:
+- [ ] Review project requirements
+- [ ] Prepare initial quote
+- [ ] Schedule discovery call
+- [ ] Send proposal document
